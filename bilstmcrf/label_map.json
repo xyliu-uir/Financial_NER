@@ -1,0 +1,15 @@
+{
+    "B-AMC": 0,
+    "I-AMC": 1,
+    "B-CLA": 2,
+    "I-CLA": 3,
+    "B-COM": 4,
+    "I-COM": 5,
+    "B-DIS": 6,
+    "I-DIS": 7,
+    "B-TIM": 8,
+    "I-TIM": 9,
+    "O": 10,
+    "<START>": 11,
+    "<STOP>": 12
+}
